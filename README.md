@@ -1,2 +1,21 @@
-# To-Do-List-A-Console-Based-Task-Manager
-  The To-Do List is a lightweight, console-based task manager that helps users efficiently organize their tasks. It allows users to add, remove, and mark tasks as completed. With a simple and intuitive command-line interface, this tool ensures easy task tracking and management. Tasks are saved in a file to maintain persistence across sessions.
+# C++ To-Do List
+
+A simple console-based task manager written in C++ to help you manage your to-do tasks efficiently. This application allows you to add, remove, and mark tasks as completed.
+
+## Features
+
+- Add new tasks to your to-do list.
+- Remove tasks from the list.
+- Mark tasks as completed.
+- Display all tasks with their completion status.
+
+## Requirements
+
+- C++11 or later
+- A C++ compiler (e.g., g++, clang++)
+
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/AqibTayyab/To-Do-List-A-Console-Based-Task-Manager.git
